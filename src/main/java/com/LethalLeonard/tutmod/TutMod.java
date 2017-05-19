@@ -1,13 +1,10 @@
 package com.LethalLeonard.tutmod;
 
+import com.LethalLeonard.tutmod.Reference.Reference;
 import net.minecraftforge.fml.common.Mod;
 
-/**
- * Created by Jake Leonard on 5/15/2017.
- */
-@Mod(modid = "tutmod", name = "TutMod", version = "0.1a")
-public class TutMod {
-
-
+@Mod(modid = Reference.modid, name = Reference.name, version = Reference.version)
+public class TutMod
+{
 
 }
