@@ -1,0 +1,19 @@
+[
+{
+  "modid": "tutmod",
+  "name": "TutMod",
+  "description": "LethalLeonard's following of Pahimar's Lets Mod Reboot",
+  "version": "0.1a",
+  "mcversion": "1.11.2",
+  "authorList": [
+    "LethalLeonard"
+  ],
+  "credits": "Pahimar ♥",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
