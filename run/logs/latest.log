@@ -1,35 +1,36 @@
-[19:27:34] [main/INFO]: Extra: []
-[19:27:34] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Jake Leonard/.gradle/caches/minecraft/assets, --assetIndex, 1.11, --accessToken{REDACTED}, --version, 1.11.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
-[19:27:35] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[19:27:35] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[19:27:35] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
-[19:27:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[19:27:35] [main/INFO]: Forge Mod Loader version 13.20.0.2298 for Minecraft 1.11.2 loading
-[19:27:35] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_131, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_131\jre
-[19:27:36] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[19:27:36] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
-[19:27:36] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
-[19:27:36] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
-[19:27:36] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:27:36] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[19:27:36] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[19:27:36] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:27:36] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:27:36] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:27:37] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
-[19:27:44] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
-[19:27:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:27:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[19:27:47] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[19:27:47] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[19:27:47] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[19:27:47] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[19:27:57] [Client thread/INFO]: Setting user: Player644
-[19:28:16] [Client thread/INFO]: LWJGL Version: 2.9.4
-[19:28:26] [Client thread/INFO]: [STDOUT]: ---- Minecraft Crash Report ----
-// Ouch. That hurt :(
+[23:07:51] [main/INFO]: Extra: []
+[23:07:51] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Jake Leonard/.gradle/caches/minecraft/assets, --assetIndex, 1.11, --accessToken{REDACTED}, --version, 1.11.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[23:07:51] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:07:51] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:07:51] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[23:07:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:07:51] [main/INFO]: Forge Mod Loader version 13.20.0.2298 for Minecraft 1.11.2 loading
+[23:07:51] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_131, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_131\jre
+[23:07:51] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[23:07:51] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[23:07:51] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[23:07:51] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[23:07:51] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:07:51] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:07:51] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[23:07:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:07:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:07:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:07:52] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[23:07:58] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[23:07:58] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:07:58] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:08:01] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[23:08:01] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:08:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:08:01] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[23:08:07] [Client thread/INFO]: Setting user: Player5
+[23:08:22] [Client thread/WARN]: Skipping bad option: lastServer:
+[23:08:22] [Client thread/INFO]: LWJGL Version: 2.9.4
+[23:08:26] [Client thread/INFO]: [STDOUT]: ---- Minecraft Crash Report ----
+// But it works on my machine.
 
-Time: 5/19/17 7:28 PM
+Time: 5/19/17 11:08 PM
 Description: Loading screen debug info
 
 This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
@@ -44,59 +45,169 @@ Details:
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_131, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 303085448 bytes (289 MB) / 465043456 bytes (443 MB) up to 1659371520 bytes (1582 MB)
+	Memory: 393919376 bytes (375 MB) / 512229376 bytes (488 MB) up to 1659371520 bytes (1582 MB)
 	JVM Flags: 0 total; 
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
 	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.5.13418 Compatibility Profile Context 15.301.2301.1002' Renderer: 'AMD Radeon(TM) R5 Graphics'
-[19:28:27] [Client thread/INFO]: MinecraftForge v13.20.0.2298 Initialized
-[19:28:27] [Client thread/INFO]: Replaced 232 ore recipes
-[19:28:28] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
-[19:28:28] [Client thread/INFO]: Searching C:\MODZ\TutMod\run\mods for mods
-[19:28:30] [Thread-6/INFO]: Using sync timing. 200 frames of Display.update took 263165202 nanos
-[19:28:33] [Client thread/INFO]: Forge Mod Loader has identified 5 mods to load
-[19:28:35] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, tutmod] at CLIENT
-[19:28:35] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, tutmod] at SERVER
-[19:28:38] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TutMod
-[19:28:38] [Client thread/INFO]: Processing ObjectHolder annotations
-[19:28:38] [Client thread/INFO]: Found 445 ObjectHolder annotations
-[19:28:38] [Client thread/INFO]: Identifying ItemStackHolder annotations
-[19:28:38] [Client thread/INFO]: Found 0 ItemStackHolder annotations
-[19:28:38] [Client thread/INFO]: Applying holder lookups
-[19:28:38] [Client thread/INFO]: Holder lookups applied
-[19:28:38] [Client thread/INFO]: Applying holder lookups
-[19:28:39] [Client thread/INFO]: Holder lookups applied
-[19:28:39] [Client thread/INFO]: Applying holder lookups
-[19:28:39] [Client thread/INFO]: Holder lookups applied
-[19:28:39] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[19:28:39] [Client thread/INFO]: Applying holder lookups
-[19:28:39] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[19:28:39] [Client thread/INFO]: Holder lookups applied
-[19:28:39] [Client thread/INFO]: Injecting itemstacks
-[19:28:39] [Client thread/INFO]: Itemstack injection complete
-[19:28:40] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Target: 13.20.0.2299
-[19:30:13] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[19:30:14] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[19:30:14] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[19:30:18] [Thread-8/INFO]: OpenAL initialized.
-[19:30:18] [Sound Library Loader/INFO]: Sound engine started
-[19:30:41] [Client thread/INFO]: Max texture size: 16384
-[19:30:41] [Client thread/INFO]: Created: 16x16 textures-atlas
-[19:30:47] [Client thread/INFO]: Injecting itemstacks
-[19:30:47] [Client thread/INFO]: Itemstack injection complete
-[19:30:47] [Client thread/INFO]: Forge Mod Loader has successfully loaded 5 mods
-[19:30:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TutMod
-[19:32:02] [Client thread/INFO]: SoundSystem shutting down...
-[19:32:02] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[19:32:02] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[19:32:02] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[19:32:02] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[19:32:03] [Thread-10/INFO]: OpenAL initialized.
-[19:32:03] [Sound Library Loader/INFO]: Sound engine started
-[19:32:21] [Client thread/INFO]: Max texture size: 16384
-[19:32:23] [Client thread/INFO]: Created: 512x512 textures-atlas
-[19:32:38] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[19:32:48] [Client thread/INFO]: Stopping!
-[19:32:48] [Client thread/INFO]: SoundSystem shutting down...
-[19:32:48] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[23:08:26] [Client thread/INFO]: MinecraftForge v13.20.0.2298 Initialized
+[23:08:26] [Client thread/INFO]: Replaced 232 ore recipes
+[23:08:28] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[23:08:28] [Client thread/INFO]: Searching C:\MODZ\TutMod\run\mods for mods
+[23:08:29] [Thread-6/INFO]: Using sync timing. 200 frames of Display.update took 285132907 nanos
+[23:08:31] [Client thread/INFO]: Forge Mod Loader has identified 5 mods to load
+[23:08:33] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, tutmod] at CLIENT
+[23:08:33] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, tutmod] at SERVER
+[23:08:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TutMod
+[23:08:35] [Client thread/INFO]: Processing ObjectHolder annotations
+[23:08:35] [Client thread/INFO]: Found 445 ObjectHolder annotations
+[23:08:35] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[23:08:35] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[23:08:35] [Client thread/INFO]: Applying holder lookups
+[23:08:35] [Client thread/INFO]: Holder lookups applied
+[23:08:35] [Client thread/INFO]: Applying holder lookups
+[23:08:35] [Client thread/INFO]: Holder lookups applied
+[23:08:35] [Client thread/INFO]: Applying holder lookups
+[23:08:35] [Client thread/INFO]: Holder lookups applied
+[23:08:35] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[23:08:35] [Client thread/INFO]: Applying holder lookups
+[23:08:35] [Client thread/INFO]: Holder lookups applied
+[23:08:35] [Client thread/INFO]: Injecting itemstacks
+[23:08:35] [Client thread/INFO]: Itemstack injection complete
+[23:08:35] [Client thread/ERROR]: Fatal errors were detected during the transition from PREINITIALIZATION to INITIALIZATION. Loading cannot continue
+[23:08:35] [Client thread/ERROR]: 
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCH	minecraft{1.11.2} [Minecraft] (minecraft.jar) 
+	UCH	mcp{9.19} [Minecraft Coder Pack] (minecraft.jar) 
+	UCH	FML{8.0.99.99} [Forge Mod Loader] (forgeSrc-1.11.2-13.20.0.2298.jar) 
+	UCH	forge{13.20.0.2298} [Minecraft Forge] (forgeSrc-1.11.2-13.20.0.2298.jar) 
+	UCE	tutmod{0.1a} [TutMod] (TutMod) 
+[23:08:35] [Client thread/ERROR]: The following problems were captured during this phase
+[23:08:35] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[23:08:35] [Client thread/ERROR]: Caught exception from TutMod (tutmod)
+java.lang.ClassCastException: com.LethalLeonard.tutmod.handler.ConfigurationHandler cannot be cast to net.minecraft.client.gui.GuiScreen
+	at net.minecraftforge.fml.client.FMLClientHandler.showGuiScreen(FMLClientHandler.java:541) ~[forgeSrc-1.11.2-13.20.0.2298.jar:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.showGuiScreen(FMLCommonHandler.java:317) ~[forgeSrc-1.11.2-13.20.0.2298.jar:?]
+	at com.LethalLeonard.tutmod.TutMod.preInit(TutMod.java:27) ~[TutMod/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:643) ~[forgeSrc-1.11.2-13.20.0.2298.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:252) ~[forgeSrc-1.11.2-13.20.0.2298.jar:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:230) ~[forgeSrc-1.11.2-13.20.0.2298.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:147) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:647) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:276) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:478) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:387) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:26) [start/:?]
+[23:08:35] [Client thread/INFO]: [net.minecraft.init.Bootstrap:printToSYSOUT:600]: ---- Minecraft Crash Report ----
+// On the bright side, I bought you a teddy bear!
+
+Time: 5/19/17 11:08 PM
+Description: There was a severe problem during mod loading that has caused the game to fail
+
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from TutMod (tutmod)
+Caused by: java.lang.ClassCastException: com.LethalLeonard.tutmod.handler.ConfigurationHandler cannot be cast to net.minecraft.client.gui.GuiScreen
+	at net.minecraftforge.fml.client.FMLClientHandler.showGuiScreen(FMLClientHandler.java:541)
+	at net.minecraftforge.fml.common.FMLCommonHandler.showGuiScreen(FMLCommonHandler.java:317)
+	at com.LethalLeonard.tutmod.TutMod.preInit(TutMod.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:643)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:252)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:230)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:147)
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:647)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:276)
+	at net.minecraft.client.Minecraft.init(Minecraft.java:478)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:387)
+	at net.minecraft.client.main.Main.main(Main.java:118)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+	at GradleStart.main(GradleStart.java:26)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.11.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_131, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 251714432 bytes (240 MB) / 568852480 bytes (542 MB) up to 1659371520 bytes (1582 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.38 Powered by Forge 13.20.0.2298 5 mods loaded, 5 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCH	minecraft{1.11.2} [Minecraft] (minecraft.jar) 
+	UCH	mcp{9.19} [Minecraft Coder Pack] (minecraft.jar) 
+	UCH	FML{8.0.99.99} [Forge Mod Loader] (forgeSrc-1.11.2-13.20.0.2298.jar) 
+	UCH	forge{13.20.0.2298} [Minecraft Forge] (forgeSrc-1.11.2-13.20.0.2298.jar) 
+	UCE	tutmod{0.1a} [TutMod] (TutMod) 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.5.13418 Compatibility Profile Context 15.301.2301.1002' Renderer: 'AMD Radeon(TM) R5 Graphics'
+[23:08:36] [Client thread/INFO]: [net.minecraft.init.Bootstrap:printToSYSOUT:600]: #@!@# Game crashed! Crash report saved to: #@!@# C:\MODZ\TutMod\run\.\crash-reports\crash-2017-05-19_23.08.35-client.txt
