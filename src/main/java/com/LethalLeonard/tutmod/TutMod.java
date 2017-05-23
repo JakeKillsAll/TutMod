@@ -17,6 +17,7 @@ public class TutMod
     @SidedProxy(clientSide = Reference.clientSide, serverSide = Reference.serverSide)
     public static CommonProxy proxy;
 
+    //The FML Initialization events all initialize everything that would need to be for the mod
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {

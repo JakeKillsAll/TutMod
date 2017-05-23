@@ -11,11 +11,13 @@ public class ModItems
 {
     public static itemTutMod itemSample = new itemSample();
 
+    //this is the client's/server's initialization of the item
     public static void init()
     {
        registerItems.Register(itemSample,Names.itemSample);
     }
 
+    //This is the client's rendering method
     @SideOnly(Side.CLIENT)
     public static void InitClient(ItemModelMesher mesher)
     {
