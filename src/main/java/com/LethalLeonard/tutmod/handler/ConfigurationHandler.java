@@ -17,6 +17,10 @@ public class ConfigurationHandler
 
             boolean configValue = configuration.getBoolean("Sample Value", "General", true,
                     "This is a test config value");
+            int sampleInt = configuration.getInt("Sample Int", "General", 120,10,
+                    500,"Some random int value");
+            boolean sampleBoolean = configuration.getBoolean("SampleBoolean","Other",true,
+                    "Random Comment");
         }
         catch(Exception e)
         {
