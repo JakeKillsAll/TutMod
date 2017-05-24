@@ -1,2 +1,4 @@
 item.tutmod:sample_item.name=Sample Item
 item.tutmod:some_sword.name=Some Sword
+
+tile.tutmod:sample_block.name=Sample Block

@@ -9,5 +9,6 @@ public class itemSample extends itemTutMod
     {
         super();
         this.setUnlocalizedName(Names.itemSample);
+        this.setMaxStackSize(64);
     }
 }
