@@ -11,6 +11,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 @Mod(modid = Reference.modid, name = Reference.name, version = Reference.version,guiFactory = Reference.guiFactory)
 public class TutMod
 {
+    //Creates an instance of the mod if it needs referenced
     @Mod.Instance(Reference.modid)
     public static TutMod instance;
 

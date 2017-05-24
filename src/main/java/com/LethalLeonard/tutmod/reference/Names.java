@@ -1,5 +1,8 @@
 package com.LethalLeonard.tutmod.reference;
 
+/**
+ * Sets any name constants for items and blocks
+ */
 public class Names
 {
     //Items

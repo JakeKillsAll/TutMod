@@ -7,10 +7,10 @@ import net.minecraft.item.ItemSword;
 
 public class itemSomeSword extends ItemSword
 {
+    //This sets all the parameters for the sword item
     public itemSomeSword(Item.ToolMaterial material)
     {
         super(material);
-        this.setMaxDamage(100);
         this.setUnlocalizedName(Reference.resPrefix+Names.itemSomeSword);
     }
 }

@@ -7,10 +7,17 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
+/**
+ * This class sets anything that would be rendered both client and server side in their init phase
+ */
 public abstract class CommonProxy {
+
     public void preInit(FMLPreInitializationEvent event)
     {
+        //Creates and read the configuration file
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+
+        //Registers the Blocks and Items to the game
         ModBlocks.init();
         ModItems.init();
     }

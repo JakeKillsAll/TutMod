@@ -4,6 +4,10 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
+/**
+ * This initializes everything that needs to be registered server side only
+ * on the server side only
+ */
 public class ServerProxy extends CommonProxy
 {
 

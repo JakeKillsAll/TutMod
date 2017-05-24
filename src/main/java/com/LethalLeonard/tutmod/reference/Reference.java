@@ -1,5 +1,8 @@
 package com.LethalLeonard.tutmod.reference;
 
+/**
+ * Sets and constants that would be used across the mod
+ */
 public  class Reference
 {
     public static final String modid = "tutmod";

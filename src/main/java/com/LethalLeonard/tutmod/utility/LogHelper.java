@@ -4,6 +4,9 @@ import com.LethalLeonard.tutmod.reference.Reference;
 import net.minecraftforge.fml.common.FMLLog;
 import org.apache.logging.log4j.Level;
 
+/**
+ * Just a simple Logging class that formats it as other notifications in console
+ */
 public class LogHelper
 {
     public static void log(Level logLevel, Object object)
