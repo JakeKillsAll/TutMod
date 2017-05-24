@@ -56,5 +56,6 @@ public class register
         ModelLoader.registerItemVariants(item,model);
         mesher.register(item,0,model);
     }
+    
 
 }

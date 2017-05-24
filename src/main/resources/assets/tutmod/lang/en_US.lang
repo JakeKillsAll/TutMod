@@ -1,4 +1,9 @@
+#Items
 item.tutmod:sample_item.name=Sample Item
 item.tutmod:some_sword.name=Some Sword
 
+#Blocks
 tile.tutmod:sample_block.name=Sample Block
+
+#Creative Tabs
+itemGroup.tutmod:first_tab=First Tab

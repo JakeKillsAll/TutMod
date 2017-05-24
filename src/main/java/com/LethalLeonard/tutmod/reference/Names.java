@@ -11,4 +11,7 @@ public class Names
 
     //Blocks
     public static final String sampleBlock = "sample_block";
+
+    //Creative Tabs
+    public static final String tab1 = "first_tab";
 }

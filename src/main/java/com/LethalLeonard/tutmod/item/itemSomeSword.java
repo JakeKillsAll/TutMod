@@ -2,6 +2,7 @@ package com.LethalLeonard.tutmod.item;
 
 import com.LethalLeonard.tutmod.reference.Names;
 import com.LethalLeonard.tutmod.reference.Reference;
+import com.LethalLeonard.tutmod.utility.ModCreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemSword;
 
@@ -12,5 +13,6 @@ public class itemSomeSword extends ItemSword
     {
         super(material);
         this.setUnlocalizedName(Reference.resPrefix+Names.itemSomeSword);
+        this.setCreativeTab(ModCreativeTabs.tutTab);
     }
 }

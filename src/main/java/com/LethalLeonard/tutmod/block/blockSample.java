@@ -2,11 +2,11 @@ package com.LethalLeonard.tutmod.block;
 
 import com.LethalLeonard.tutmod.init.ModItems;
 import com.LethalLeonard.tutmod.reference.Names;
+import com.LethalLeonard.tutmod.utility.ModCreativeTabs;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.item.Item;
 import net.minecraft.util.math.BlockPos;
-import net.minecraftforge.fml.common.registry.GameRegistry;
 
 import java.util.Random;
 
@@ -22,6 +22,8 @@ public class blockSample extends blockTutMod
         this.setHardness(5.0f);
         //sets the tool used to harvest the block and how strong of a tool is required
         this.setHarvestLevel("pickaxe",1);
+        //sets the creative tab
+        this.setCreativeTab(ModCreativeTabs.tutTab);
     }
 
     //sets the item the gets dropped
@@ -36,6 +38,11 @@ public class blockSample extends blockTutMod
     public int quantityDroppedWithBonus(int fortune, Random random)
     {
         return this.quantityDropped(random) + random.nextInt(fortune + 1);
+    }
+
+    @Override
+    public int quantityDropped(Random random) {
+        return random.nextInt(4)+1;
     }
 
     //sets the amount of experience dropped when broken

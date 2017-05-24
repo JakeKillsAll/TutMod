@@ -1,6 +1,0 @@
-{
-  "parent": "tutmod:block/sample_block",
-  "textures": {
-    "layer0": "tutmod:blocks/sample_block"
-  }
-}
