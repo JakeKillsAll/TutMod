@@ -49,7 +49,8 @@
     <option name="OPEN_IN_BROWSER" value="true" />
   </component>
   <component name="KotlinCommonCompilerArguments">
-    <option name="coroutinesWarn" value="false" />
+    <option name="languageVersion" value="1.1" />
+    <option name="apiVersion" value="1.1" />
   </component>
   <component name="Palette2">
     <group name="Swing">

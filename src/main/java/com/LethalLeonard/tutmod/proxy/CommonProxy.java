@@ -4,6 +4,7 @@ import com.LethalLeonard.tutmod.handler.ConfigurationHandler;
 import com.LethalLeonard.tutmod.init.ModBlocks;
 import com.LethalLeonard.tutmod.init.ModItems;
 import com.LethalLeonard.tutmod.utility.Recipes;
+import com.LethalLeonard.tutmod.utility.register;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
@@ -27,6 +28,8 @@ public abstract class CommonProxy {
     {
         //Adds all Item and Block recipes
         Recipes.addRecipes();
+        //World Generation
+        register.RegisterOreGen();
     }
 
     public void postInit(FMLPostInitializationEvent event)

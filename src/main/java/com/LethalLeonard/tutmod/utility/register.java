@@ -1,6 +1,7 @@
 package com.LethalLeonard.tutmod.utility;
 
 import com.LethalLeonard.tutmod.item.itemTutMod;
+import com.LethalLeonard.tutmod.oreGen.sampleBlockGen;
 import com.LethalLeonard.tutmod.reference.Names;
 import com.LethalLeonard.tutmod.reference.Reference;
 import net.minecraft.block.Block;
@@ -56,6 +57,12 @@ public class register
         ModelLoader.registerItemVariants(item,model);
         mesher.register(item,0,model);
     }
-    
+
+    /**
+     * Registers any Block generation
+     */
+    public static void RegisterOreGen(){
+        GameRegistry.registerWorldGenerator(new sampleBlockGen(),0);
+    }
 
 }
